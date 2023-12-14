@@ -1,0 +1,146 @@
+{
+  "videos": [
+    {
+      "id": "32",
+      "caption": "pathan",
+      "thumbnail": "https://www.koimoi.com/wp-content/new-galleries/2022/12/pathan-cast-fee-revealed-deepika-padukone-shah-rukh-khan-john-abraham-takes-home-massive-paycheck-001.jpg",
+      "url": "https://www.youtube.com/embed/YxWlaYCA8MU"
+    },
+    {
+      "id": "1",
+      "caption": "rdx",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDk5YWE4NmYtZTlhNS00OWUxLWI2NDAtYTMzZmM3ODMyMTEwXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "5",
+      "caption": "SALAAR",
+      "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/16/37fd066d43e4ed2b50094ef37a915a751697457120744597_original.jpg?impolicy=abp_cdn&imwidth=650",
+      "url": "https://www.youtube.com/embed/bUR_FKt7Iso"
+    },
+    {
+      "id": "7",
+      "caption": "Squid Game",
+      "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25727671_b_h9_ab.jpg",
+      "url": "https://www.youtube.com/embed/oqxAJKy0ii4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "pathaan",
+      "allVideos": [
+        {
+          "id": "32",
+          "caption": "pathan",
+          "thumbnail": "https://www.koimoi.com/wp-content/new-galleries/2022/12/pathan-cast-fee-revealed-deepika-padukone-shah-rukh-khan-john-abraham-takes-home-massive-paycheck-001.jpg",
+          "url": "https://www.youtube.com/embed/YxWlaYCA8MU"
+        },
+        {
+          "id": "5",
+          "caption": "SALAAR",
+          "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/16/37fd066d43e4ed2b50094ef37a915a751697457120744597_original.jpg?impolicy=abp_cdn&imwidth=650",
+          "url": "https://www.youtube.com/embed/bUR_FKt7Iso"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "RDX",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "rdx",
+          "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDk5YWE4NmYtZTlhNS00OWUxLWI2NDAtYTMzZmM3ODMyMTEwXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+          "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+        },
+        {
+          "id": "32",
+          "caption": "pathan",
+          "thumbnail": "https://www.koimoi.com/wp-content/new-galleries/2022/12/pathan-cast-fee-revealed-deepika-padukone-shah-rukh-khan-john-abraham-takes-home-massive-paycheck-001.jpg",
+          "url": "https://www.youtube.com/embed/YxWlaYCA8MU"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "squidgame",
+      "allVideos": [
+        {
+          "id": "7",
+          "caption": "Squid Game",
+          "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25727671_b_h9_ab.jpg",
+          "url": "https://www.youtube.com/embed/oqxAJKy0ii4"
+        },
+        {
+          "id": "5",
+          "caption": "SALAAR",
+          "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/16/37fd066d43e4ed2b50094ef37a915a751697457120744597_original.jpg?impolicy=abp_cdn&imwidth=650",
+          "url": "https://www.youtube.com/embed/bUR_FKt7Iso"
+        }
+      ]
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": 2,
+      "categoryname": "rdx",
+      "url": "https://www.youtube.com/embed/bUR_FKt7Iso",
+      "date": "21=03-2324"
+    },
+    {
+      "id": "a540ad43-1f25-4f49-8dfe-3c2fe2419fe2",
+      "categoryname": "pathan",
+      "url": "https://www.youtube.com/embed/YxWlaYCA8MU",
+      "date": "2023-12-12T04:52:37.018Z"
+    },
+    {
+      "id": "8cd862fd-05e2-414b-9a27-180b983f04f8",
+      "categoryname": "pathan",
+      "url": "https://www.youtube.com/embed/YxWlaYCA8MU",
+      "date": "2023-12-12T04:57:11.867Z"
+    },
+    {
+      "id": "42396957-5780-4853-99f8-8e3b0075c6d7",
+      "categoryname": "pathan",
+      "url": "https://www.youtube.com/embed/YxWlaYCA8MU",
+      "date": "2023-12-13T03:52:44.915Z"
+    },
+    {
+      "id": "70e42dc5-2e2b-43fe-8fe1-e0d4351e868d",
+      "categoryname": "pathan",
+      "url": "https://www.youtube.com/embed/YxWlaYCA8MU",
+      "date": "2023-12-13T03:52:53.931Z"
+    },
+    {
+      "id": "c3ab627d-745e-4249-8d53-04f2945c0b69",
+      "categoryname": "SALAAR",
+      "url": "https://www.youtube.com/embed/bUR_FKt7Iso",
+      "date": "2023-12-13T04:21:59.605Z"
+    },
+    {
+      "id": "15815c90-53e8-4c4e-b952-b3160b625791",
+      "categoryname": "SALAAR",
+      "url": "https://www.youtube.com/embed/bUR_FKt7Iso",
+      "date": "2023-12-13T04:31:04.060Z"
+    },
+    {
+      "id": "f71dac9d-31d6-416a-b7a0-81318baa8f7e",
+      "categoryname": "rdx",
+      "url": "https://www.youtube.com/embed/KKFkYKrJJDE",
+      "date": "2023-12-14T03:21:53.994Z"
+    },
+    {
+      "id": "624e7dd9-63b5-4f98-b115-4d8188d4579d",
+      "categoryname": "rdx",
+      "url": "https://www.youtube.com/embed/KKFkYKrJJDE",
+      "date": "2023-12-14T03:41:20.988Z"
+    },
+    {
+      "id": "e60e4258-c1e7-44e1-8f37-bf3edede7755",
+      "categoryname": "rdx",
+      "url": "https://www.youtube.com/embed/KKFkYKrJJDE",
+      "date": "2023-12-14T04:09:25.828Z"
+    }
+  ]
+}
